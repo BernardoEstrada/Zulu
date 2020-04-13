@@ -1,0 +1,2 @@
+# Zulu
+ “Zulu” es un juego tipo tower defense en 3D. Eres líder de Zulu, una pequeña tribu de criaturas nómadas que se mueve en los lugares más inhóspitos de la ciudad de Zimbabwe con el único objetivo de sobrevivir.  Zulu vive a cuesta de objetos perdidos u olvidados de los humanos y también ha desarrollado un pequeño sistema para sobrevivir y defenderse de las peligrosas criaturas que los amenazan. Tú, como líder de la tribu, es tu deber protegerla de los diferentes riesgos que se presentan (cucarachas/ratas/carroñeros/lluvia/etc). 
